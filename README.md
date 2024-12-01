@@ -4,8 +4,6 @@
 Projeto de automação de testes funcionais na interface de [E-commerce](https://qastoredesafio.lojaintegrada.com.br/) para os seguintes requisitos:<br>
 - Cupons válidos<br>
 - Cupons inválidos<br>
-- Casos Limite<br>
-- Fluxos adicionais<br>
 
 Os testes foram desenvolvidos em JS com [Cypress](https://www.cypress.io/) e [Cucumber](https://cucumber.io/)
 
